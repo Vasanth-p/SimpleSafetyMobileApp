@@ -12,7 +12,7 @@ The Simple Safety App is an Android application designed to provide safety featu
 
 ## How to Use
 
-1. <span style="color:#00BFFF">*Download the Source Code*</span>: You can download the source code of the Simple Safety App from [here]([https://github.com/yourrepository/source-code-link](https://github.com/Vasanth-p/SimpleSafetyMobileApp)).
+1. <span style="color:#00BFFF">*Download the Source Code*</span>: You can download the source code of the Simple Safety App from [here]([https://github.com/yourrepository/source-code-link])(https://github.com/Vasanth-p/SimpleSafetyMobileApp)).
 
 2. <span style="color:#00BFFF">*Open in Android Studio*</span>: Open Android Studio and import the downloaded source code project.
 
